@@ -1,0 +1,27 @@
+{
+  "name": "jse_2023_arrays",
+  "version": "1.0.0",
+  "description": "Esercizi sugli array",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mceserani/JSE_2023_Arrays.git"
+  },
+  "keywords": [
+    "Arrays",
+    "Javascript"
+  ],
+  "author": "Matteo Ceserani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mceserani/JSE_2023_Arrays/issues"
+  },
+  "homepage": "https://github.com/mceserani/JSE_2023_Arrays#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "type": "module"
+}
